@@ -1,1 +1,10 @@
-{ "compilerOptions": { "jsx": "react-jsx", "skipLibCheck": true }, "include": ["src"] }
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "jsx": "react-jsx",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
