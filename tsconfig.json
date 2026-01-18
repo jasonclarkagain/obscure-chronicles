@@ -1,10 +1,10 @@
-{
-  "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "jsx": "react-jsx",
-    "strict": true,
-    "skipLibCheck": true
-  },
-  "include": ["src"]
-}
+
+
+
+
+
+
+
+
+
+
